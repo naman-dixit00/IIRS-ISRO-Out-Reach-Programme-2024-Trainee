@@ -32,3 +32,41 @@ together , these programmes illustrates a complete pipelines  : from raw geospat
 Program Supervisor : Ravi Bhandari 
 Title : Outreach Programme Mentor - IIRS ,ISRO .
 Department of Space , Gov.of India 
+
+
+---
+
+## How to Read / Navigate This Repository
+
+This repository contains a **full technical document** (available inside this repo) which explains my work in a **chapter–wise** academic structure.
+
+If you want to understand the work correctly — do **NOT** start from the code layer.
+
+Follow this sequence:
+
+| Stage | What to Open | Why |
+|---|---|---|
+| 1 | **/Document/** (primary document) | This is the canonical interpretation layer. Chapters (with plots, tables, and figures) provide context, theory, methodology, and results. |
+| 2 | **/notebooks/** | Implementation proof. Each notebook instantiates a chapter concept in executable form. |
+| 3 | **/models/** | Model artefacts, weights, evaluation reports. |
+| 4 | **/data/** | Reference geodata used during development and prototyping (when distributable). |
+
+### Reading Philosophy
+
+> the document = the “WHAT & WHY”  
+> code notebooks = the “HOW & WITH WHAT”
+
+This separation is intentional.  
+MIT and Stanford lab workflows follow the same principle:  
+**first interpret the problem space, then inspect the computational mechanics.**
+
+### Summary Directive
+
+1) read the document chapters first  
+2) then open the matching notebooks  
+3) then inspect the low-level code mechanics
+
+That is the correct consumption direction for this repository.
+
+---
+
