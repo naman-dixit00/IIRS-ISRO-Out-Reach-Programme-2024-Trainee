@@ -2,7 +2,15 @@
 
 this is my image:
 
-![cute cat](https://media.telanganatoday.com/wp-content/uploads/2024/08/ISRO-8.jpg)
+<p align="center">
+  <img 
+    src="https://media.telanganatoday.com/wp-content/uploads/2024/08/ISRO-8.jpg"
+    alt="ISRO PSLV image"
+    height="200" />
+</p>
+
+**source / credit:**  
+https://media.telanganatoday.com/wp-content/uploads/2024/08/ISRO-8.jpg
 
 more text…
 
