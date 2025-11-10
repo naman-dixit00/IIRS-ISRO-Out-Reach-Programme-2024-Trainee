@@ -1,18 +1,14 @@
-# My README
-
-this is my image:
-
+# IIRS-ISRO-Out-Reach-Programme-2024-Trainee
 <p align="center">
   <img 
     src="https://media.telanganatoday.com/wp-content/uploads/2024/08/ISRO-8.jpg"
     alt="ISRO PSLV image"
-    height="200" />
+    width="100%"
+    height="300" />
 </p>
 
 **source / credit:**  
 https://media.telanganatoday.com/wp-content/uploads/2024/08/ISRO-8.jpg
-
-more text…
 
 # IIRS-ISRO-Out-Reach-Programme-2024-Trainee -
 This Repository contains the details about my  work while i was working as a trainee at IIRS-ISRO Outreach programmes 2024 in AI , ML , Python .
